@@ -1,6 +1,6 @@
 - **Deliverable for Task 1:** Take a screenshot of all the GPOs created for this homework assignment. To find these, launch the Group Policy Management tool, select **Group Policy Objects**, and take a screenshot of the GPOs you've created.
 
-![GPOs Created](HW_7/Images/GPOsCreated.PNG)
+![GPOs Created](Images/GPOsCreated.PNG)
 
 - **Deliverable for Task 2:** Submit a screenshot of the different `Account Lockout` policies in Group Policy Management Editor. It should show the three values you set under the Policy and Policy Setting columns.
 
