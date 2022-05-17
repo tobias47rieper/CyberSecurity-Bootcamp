@@ -4,7 +4,7 @@
 
 - **Deliverable for Task 2:** Submit a screenshot of the different `Account Lockout` policies in Group Policy Management Editor. It should show the three values you set under the Policy and Policy Setting columns.
 
-![Account Lockout Policies](Images%5CAccount%20Lockout%20Policies.PNG)
+![Account Lockout Policies](Images\Account%20Lockout%20Policies.PNG)
 
 - **Deliverable for Task 3:** Submit a screenshot of the different `Windows PowerShell` policies within the Group Policy Management Editor. Four of these should be enabled.
 
