@@ -110,5 +110,11 @@
 
 ## Mission 7 
 
+    nslookup -type=TXT princessleia.site
+![Mission 7 NSLookup](Images/m7nslookup.PNG)
+
+    telnet towel.blinkenlights.nl
+![Starwars](Images/starwars.PNG)
+
 [Starwars Video](Videos/Starwars.mp4)      
   
